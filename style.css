@@ -2,15 +2,16 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    font-family: 'BEBASNEUE'
+    font-family: 'BEBASNEUE';
+    min-height: 100vh
 }
 @font-face {
     font-family: 'BEBASNEUE';
-    src: url("assets/BEBASNEUE\ BOLD.OTF");
+    src: url("BEBASNEUE\ BOLD.OTF");
     font-weight: 100;
   }
   @font-face {
     font-family: 'BEBASNEUE';
-    src: url("assets/BEBASNEUE\ REGULAR.OTF");
+    src: url("BEBASNEUE\ REGULAR.OTF");
     font-weight: 00;
   }
