@@ -1,1 +1,1 @@
-# rsschool-cv
+https://disanebass.github.io/rsschool-cv/
